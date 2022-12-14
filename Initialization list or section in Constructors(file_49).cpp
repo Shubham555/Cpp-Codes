@@ -1,4 +1,4 @@
-/***************** Initialization list/section in Constructors  ***********************/
+/***************** Initialization list or section in Constructors  ***********************/
 
 #include <bits/stdc++.h>
 using namespace std;
