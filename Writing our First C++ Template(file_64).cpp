@@ -1,4 +1,4 @@
-/*************************** Writing our First C++ Template in VS Code    **********************************/
+/*************************** Writing our First C++ Template  **********************************/
 
 #include<iostream>
 using namespace std;
